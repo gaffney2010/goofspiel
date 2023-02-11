@@ -1,0 +1,10 @@
+[package]
+name = "goofspiel"
+version = "0.1.0"
+edition = "2021"
+authors = ["gaffney2010"]
+
+[dependencies]
+"anyhow" = "1.0.65"
+"failure" = "0.1.8"
+"rand" = "0.8.5"
