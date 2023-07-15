@@ -7,5 +7,5 @@ Make sure you have Rust installed.
 rustc --version
 ```
 
-Once installed, run `make compile` to compile.
+After installed, see Makefile for some of the operations you can do.
 
