@@ -1,11 +1,1 @@
-# goofspiel
-Implements Goofspiel in Rust with some bot evolution
-
-## Usage
-Make sure you have Rust installed.
-```
-rustc --version
-```
-
-After installed, see Makefile for some of the operations you can do.
-
+I gave up on rust, and started again here: https://github.com/gaffney2010/goofspiel-python
